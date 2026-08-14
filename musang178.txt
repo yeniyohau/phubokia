@@ -6,7 +6,7 @@
 <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRpwsWNG1JpKCj9lEe5u-0lSEuRpt-r_1NflDD06zwpOeDJ9v2rWIB-FpfAq8lGkVFwqvxAGbNQR5wU5zF5VSakAPbWYKoKUVKlu_ht0FonhiIt85sTx1jIatX1iD2NuQb_esPMnWJ8Pc8gkbUsR5E8C8fxP7AnfAbyHK-NroqFzuiM8Q_7Nh6dQv33XpS/s1024/40e73811-8ad7-46be-9f6d-4f3134159d04.jpeg" />
 <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRpwsWNG1JpKCj9lEe5u-0lSEuRpt-r_1NflDD06zwpOeDJ9v2rWIB-FpfAq8lGkVFwqvxAGbNQR5wU5zF5VSakAPbWYKoKUVKlu_ht0FonhiIt85sTx1jIatX1iD2NuQb_esPMnWJ8Pc8gkbUsR5E8C8fxP7AnfAbyHK-NroqFzuiM8Q_7Nh6dQv33XpS/s1024/40e73811-8ad7-46be-9f6d-4f3134159d04.jpeg">
 <link rel="canonical" href="https://toulouse.occeo.net/">
-<link rel="amphtml" href="https://phubokia.theoryandpractice.org/musang178.html" />
+<link rel="amphtml" href="https://phubokia.theoryandpractice.org/musang.html" />
 <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRpwsWNG1JpKCj9lEe5u-0lSEuRpt-r_1NflDD06zwpOeDJ9v2rWIB-FpfAq8lGkVFwqvxAGbNQR5wU5zF5VSakAPbWYKoKUVKlu_ht0FonhiIt85sTx1jIatX1iD2NuQb_esPMnWJ8Pc8gkbUsR5E8C8fxP7AnfAbyHK-NroqFzuiM8Q_7Nh6dQv33XpS/s1024/40e73811-8ad7-46be-9f6d-4f3134159d04.jpeg' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -337,9 +337,9 @@ MUSANG178 GAME ONLINE
 
         
                           <div class="n-columns-2">
-                                <a href="https://phubokia.theoryandpractice.org/musang178.html" rel="nofollow noreferrer"
+                                <a href="https://phubokia.theoryandpractice.org/musang.html" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://phubokia.theoryandpractice.org/musang178.html" rel="nofollow noreferrer"
+                               <a href="https://phubokia.theoryandpractice.org/musang.html" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -616,8 +616,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://phubokia.theoryandpractice.org/musang178.html" class="btn-x">DAFTAR DISINI</a>
-<a href="https://phubokia.theoryandpractice.org/musang178.html" class="btn-x">LOGIN DISINI</a>
+<a href="https://phubokia.theoryandpractice.org/musang.html" class="btn-x">DAFTAR DISINI</a>
+<a href="https://phubokia.theoryandpractice.org/musang.html" class="btn-x">LOGIN DISINI</a>
 <style>
 .btn-x{
   display:inline-block;
